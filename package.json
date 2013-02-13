@@ -1,0 +1,14 @@
+{
+  "name": "zabbix-statsd",
+  "description": "statsd backend to send data to zabbix",
+  "author": "Wayne Crouch",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wgcrouch/zabbix-statsd.git"
+  },
+  "version": "0.1.0",
+  "engine": {
+    "node": ">=0.6"
+  },
+  "main": "lib/zabbix.js"
+}
