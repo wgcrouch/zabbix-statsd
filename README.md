@@ -6,5 +6,5 @@ It also sends a list of items to zabbix every time a new stat is received, so yo
 
 TODO
 ====
-Send item type in autodiscovery
-make key format configurable
+- Send item type in autodiscovery
+- make key format configurable
